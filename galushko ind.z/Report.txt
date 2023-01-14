@@ -1,0 +1,2 @@
+sms: 1
+international tariff: 5
